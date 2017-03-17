@@ -1,0 +1,153 @@
+#bodyformat
+{
+	background-image: url( "black3.jpg" );
+	font-family: "Arial" ;
+	font-size: 32 ;
+	text-align: center ;
+	color: white ;
+	margin-top: 20px ;
+	margin-left: 40px ;
+	margin-right: 100 px ;
+}
+
+#contact
+{
+	text-align: left ;
+	color: white ;
+	font-size: 16px ;
+}
+
+#insert_date
+{
+	color: #ffbf00 ;
+	font-size: 14px ;
+	text-align: right ;
+}
+
+#small_info
+{
+	font-size: 20px ;
+	color: white ;
+	text-align: left ;
+	margin: 20px ;
+	text-decoration: strong ;
+}
+
+#start
+{
+	font-size: 18px ;
+	font-family: "Calibri" ;
+	font-style: "text-align: left;" ;
+	color: white ;
+	text-align: right ;
+	margin-right: 60px ;
+}
+
+#run
+{
+	font-size: 18px ;
+	color: white ;
+}
+
+#page_heading
+{
+	font-style: bold underline ;
+	text-align: center ;
+	color: white ;
+}
+
+#welcome_content
+{
+	font-size: 35 ;
+	text-align : center ;
+    color: grey ;
+	margin-left: 100px ;
+	margin-right: 100px ;
+}
+
+#welcome_content
+{
+	font-size: 26 ;
+	color: yellow ;
+}
+
+#excite 
+{
+	color: orange ;
+	font-size: 30 ; 
+	font-style: italics underline ;
+}
+
+#rules_warn
+{
+	font-size: 18px ;
+	color: red ;
+	font-style: underline ;
+	font-family: Century ;
+}
+
+#rules_state
+{
+	font-family: "Comic Sans MS" ;
+	text-align: left ;
+}
+
+#rules_step
+{
+	font-size: 40px ;
+	color: grey ;
+	margin-left: 110px ;
+	text-align: left ;
+}
+
+#rules_rules
+{
+	font-size: 20px ;
+	color: white ;
+	margin-left: 200px ;
+	text-align: left ;
+}
+
+#credits
+{
+	font-size: 20px ;
+	text-align: center ;
+	font-family: "Aharoni" ;
+}
+
+#qteam
+{
+	font-size: 22px ;
+	text-align: center ;
+	font-family: "Bauhaus 93" ;
+}
+
+a:link
+{
+	color:blue; 
+	background-color:transparent;
+	text-decoration:none ;
+}
+a:visited
+{
+	color:violet; 
+	background-color:transparent; 
+	text-decoration:none ;
+}
+a:hover
+{
+	color:red; 
+	background-color:transparent; 
+	text-decoration:underline
+}
+a:active 
+{
+	color:yellow; 
+	background-color:transparent; 
+	text-decoration:underline;
+}
+
+
+
+
+
