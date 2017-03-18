@@ -12,7 +12,7 @@
    var sc=0;                       /* seconds value */
    var ltr='';       /* heading text for event*/
    var msg='Are you still here?';  /* heading text for event date reached  */ 
-   var afr='The event has passed'; /* heading text for after event */
+   var afr='Where are you? The Thrill is here!'; /* heading text for after event */
 
 /*************************************************************************************/
 
